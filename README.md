@@ -1,4 +1,4 @@
-# smarty_flex_date_format
+# flex_date_format(Smarty用プラグイン)
 
 ```
 {日付文字列またはUNIXタイムスタンプ|flex_date_format:'%年%m月%d日(%曜)'}
